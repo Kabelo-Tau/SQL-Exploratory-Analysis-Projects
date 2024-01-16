@@ -10,4 +10,4 @@ The dataset used is available in a  **.csv** file that is available in the *data
 
 
 ### Acknowledgement(s)
-This project is available as a part of DataCamp's premium tier.
+This project is available as a part of DataCamp's premium tier. 
